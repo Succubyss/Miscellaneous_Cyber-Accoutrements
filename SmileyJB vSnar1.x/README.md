@@ -32,7 +32,7 @@ There's also a gpt-4o logit bias I recommend importing and using, which helps ki
 
 This notably does NOT do the fucking asterisks around all actions/narrative style because:
 1. Its training data associates this with much poorer quality writing
-1. It's token pollution that will often lead to formatting errors
+1. It's token pollution that will often lead to nonvalid markdown in the output
 1. It's unnecessary in the first place
 1. Fuck you
 
