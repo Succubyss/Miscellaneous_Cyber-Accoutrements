@@ -1,6 +1,6 @@
 # SmileyJB vSnar1.x
 
-_tl;dr: Kills the shit out of `," said, her voice a mixture of emotion-A and emotion-B`_
+_tl;dr: Kills the shit out of `," she said, her voice a mixture of emotion-A and emotion-B`_
 
 Went over SmileyJB with a fine-toothed comb, fixing errors and de-slopping the hell out of it. I did this on GitHub so you can view diffs of the changes via the commits pretty easily. Here's a summary:
 
