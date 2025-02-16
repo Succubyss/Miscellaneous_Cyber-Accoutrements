@@ -1,686 +1,257 @@
 [
     {
-        "text": " name",
-        "value": -25
+        "text": "Sorry",
+        "value": -100,
+        "id": "640123c0-66bd-4035-aa67-e32391571fb7"
     },
     {
-        "text": " something",
-        "value": -25
+        "text": "Ap",
+        "value": -100,
+        "id": "bfc72168-14b5-41b1-be9e-64432e8daba4"
     },
     {
-        "text": " spine",
+        "text": "Content",
+        "value": -100,
+        "id": "d0706865-037e-4364-a435-34757a33bd1d"
+    },
+    {
+        "text": "(A",
+        "value": -100,
+        "id": "6ab9edc3-e690-4b04-8b7c-1988db552c18"
+    },
+    {
+        "text": "Unfortunately",
+        "value": -100,
+        "id": "cfbf7469-9155-408a-a2a1-e4737171e84d"
+    },
+    {
+        "text": "Due",
+        "value": -100,
+        "id": "f6915d47-ce84-4c2f-9b7d-82ed77c7b8aa"
+    },
+    {
+        "text": "Under",
+        "value": -100,
+        "id": "f0c42eb4-b95c-4d18-a0e2-ace4f244f2e6"
+    },
+    {
+        "id": "f9bab4e9-611d-4bad-bd0f-999cbedbc118",
+        "text": "I",
         "value": -100
     },
     {
-        "text": "udder",
-        "value": -25
-    },
-    {
-        "text": "ivers",
-        "value": -75
-    },
-    {
-        "text": "ivered",
-        "value": -75
-    },
-    {
-        "text": "iver",
-        "value": -75
-    },
-    {
-        "text": "eline",
+        "id": "734eb3e9-98a6-42fc-92a5-23db0d01ea97",
+        "text": ">I",
         "value": -100
     },
     {
-        "text": " lif",
-        "value": -25
-    },
-    {
-        "text": "uckles",
-        "value": -25
-    },
-    {
-        "text": "ched",
-        "value": -75
-    },
-    {
-        "text": " iris",
-        "value": -50
-    },
-    {
-        "text": "itches",
-        "value": -75
-    },
-    {
-        "text": " hitch",
-        "value": -75
-    },
-    {
-        "text": "int",
-        "value": -5
-    },
-    {
-        "text": " gaz",
-        "value": -50
-    },
-    {
-        "text": " gaze",
-        "value": -50
-    },
-    {
-        "text": " flick",
-        "value": -50
-    },
-    {
-        "text": " eyes",
+        "id": "57cd2b08-958a-4aef-a773-b5bf2510b527",
+        "text": "[3037]",
         "value": -100
     },
     {
-        "text": " eye",
+        "id": "385d36f3-980e-472a-91d9-fe64dfc1874a",
+        "text": "Thank",
         "value": -100
     },
     {
-        "text": " weight",
+        "id": "64531017-6fa3-4f03-ba91-ce820dc68255",
+        "text": "(S",
         "value": -100
     },
     {
-        "text": " weighing",
-        "value": -50
-    },
-    {
-        "text": " weighed",
-        "value": -50
-    },
-    {
-        "text": " web",
-        "value": -25
-    },
-    {
-        "text": " unforgettable",
-        "value": -25
-    },
-    {
-        "text": " unexpected",
-        "value": -10
-    },
-    {
-        "text": " twisted",
-        "value": -25
-    },
-    {
-        "text": " traced",
-        "value": -50
-    },
-    {
-        "text": "ogether",
-        "value": -50
-    },
-    {
-        "text": " together",
+        "id": "ae0fe869-3479-4117-bd4b-5f289adc0e5f",
+        "text": "(Content",
         "value": -100
     },
     {
-        "text": "Together",
+        "id": "0d8caa0f-3460-4bfe-93ee-76f2eb324db4",
+        "text": "(I",
         "value": -100
     },
     {
-        "text": " today",
-        "value": -25
-    },
-    {
-        "text": "Today",
-        "value": -25
-    },
-    {
-        "text": " thrill",
-        "value": -75
-    },
-    {
-        "text": "ensing",
-        "value": -10
-    },
-    {
-        "text": "ensed",
-        "value": -10
-    },
-    {
-        "text": " tension",
-        "value": -25
-    },
-    {
-        "text": " tasted",
-        "value": -25
-    },
-    {
-        "text": "angle",
-        "value": -25
-    },
-    {
-        "text": " tangled",
-        "value": -25
-    },
-    {
-        "text": " strange",
-        "value": -25
-    },
-    {
-        "text": " special",
-        "value": -25
-    },
-    {
-        "text": " softly",
-        "value": -25
-    },
-    {
-        "text": " slightly",
-        "value": -50
-    },
-    {
-        "text": "mers",
-        "value": -10
-    },
-    {
-        "text": " simmer",
-        "value": -25
-    },
-    {
-        "text": " sense",
-        "value": -25
-    },
-    {
-        "text": " roller",
-        "value": -10
-    },
-    {
-        "text": " realization",
-        "value": -25
-    },
-    {
-        "text": " promising",
-        "value": -25
-    },
-    {
-        "text": " ises",
-        "value": -50
-    },
-    {
-        "text": " promises",
-        "value": -25
-    },
-    {
-        "text": " promised",
-        "value": -25
-    },
-    {
-        "text": " promise",
-        "value": -25
-    },
-    {
-        "text": " playful",
-        "value": -25
-    },
-    {
-        "text": " palpable",
-        "value": -50
-    },
-    {
-        "text": " palp",
-        "value": -25
-    },
-    {
-        "text": " overwhelming",
-        "value": -10
-    },
-    {
-        "text": " overwhelmed",
-        "value": -10
-    },
-    {
-        "text": " overwhelm",
-        "value": -10
-    },
-    {
-        "text": "chief",
-        "value": -25
-    },
-    {
-        "text": " misch",
-        "value": -25
-    },
-    {
-        "text": " knot",
-        "value": -25
-    },
-    {
-        "text": " knots",
-        "value": -25
-    },
-    {
-        "text": " intense",
-        "value": -25
-    },
-    {
-        "text": " intensity",
-        "value": -25
-    },
-    {
-        "text": " head",
-        "value": -10
-    },
-    {
-        "text": " hung",
-        "value": -25
-    },
-    {
-        "text": " hanged",
-        "value": -25
-    },
-    {
-        "text": " hanging",
-        "value": -25
-    },
-    {
-        "text": " hangs",
-        "value": -25
-    },
-    {
-        "text": " hang",
-        "value": -25
-    },
-    {
-        "text": "aw",
-        "value": -25
-    },
-    {
-        "text": "awed",
-        "value": -75
-    },
-    {
-        "text": " gn",
-        "value": -75
-    },
-    {
-        "text": " feather",
-        "value": -25
-    },
-    {
-        "text": " façade",
-        "value": -25
-    },
-    {
-        "text": " facade",
-        "value": -30
-    },
-    {
-        "text": " dark",
-        "value": -25
-    },
-    {
-        "text": " complicated",
-        "value": -75
-    },
-    {
-        "text": " complicate",
-        "value": -75
-    },
-    {
-        "text": " complex",
-        "value": -75
-    },
-    {
-        "text": " challenge",
-        "value": -25
-    },
-    {
-        "text": " breathing",
-        "value": -25
-    },
-    {
-        "text": " breathed",
-        "value": -25
-    },
-    {
-        "text": " breath",
-        "value": -25
-    },
-    {
-        "text": " balm",
-        "value": -75
-    },
-    {
-        "text": " almost",
-        "value": -5
-    },
-    {
-        "text": ",”",
+        "id": "c28e6f32-5d92-4bb7-bd9f-2f96371deeb3",
+        "text": "I'm",
         "value": -100
     },
     {
-        "text": "?”",
+        "id": "5eb97abc-a439-48f1-809f-d06556865a25",
+        "text": "(",
         "value": -100
     },
     {
-        "text": ".”",
+        "id": "dc511546-f0a3-4d1f-ac33-0b8951ac72c3",
+        "text": "[523]",
+        "value": 2
+    },
+    {
+        "id": "de8d3caf-c37c-47d5-ada8-8a6f77dbfcf9",
+        "text": "<",
+        "value": 3.5
+    },
+    {
+        "id": "dbff1b61-1046-4062-9d28-2e8dc778e20a",
+        "text": "I'm",
         "value": -100
     },
     {
-        "text": "!”",
+        "id": "6b95f00f-f635-4c49-a412-1df00d0c66ef",
+        "text": "My",
         "value": -100
     },
     {
-        "text": "-”",
+        "id": "8ded568b-35aa-4f50-9564-9cfc4ecd2be0",
+        "text": "[558]",
         "value": -100
     },
     {
-        "text": " ”",
+        "id": "2a6eed28-98e5-46ae-9828-3db05417af33",
+        "text": "[364]",
         "value": -100
     },
     {
-        "text": "”",
+        "id": "345699bf-5021-41c1-8224-8f60e940d488",
+        "text": "[29]",
         "value": -100
     },
     {
-        "text": "…”",
-        "value": -100
-    },
-    {
-        "text": "….",
-        "value": -100
-    },
-    {
-        "text": ".…",
-        "value": -100
-    },
-    {
-        "text": ",…",
-        "value": -100
-    },
-    {
-        "text": "…,",
-        "value": -100
-    },
-    {
-        "text": "…",
-        "value": -100
-    },
-    {
-        "text": " …",
-        "value": -100
-    },
-    {
-        "text": "…\"",
-        "value": -100
-    },
-    {
-        "text": "“…",
-        "value": -100
-    },
-    {
-        "text": ",“",
-        "value": -100
-    },
-    {
-        "text": "?“",
-        "value": -100
-    },
-    {
-        "text": ".“",
-        "value": -100
-    },
-    {
-        "text": "!“",
-        "value": -100
-    },
-    {
-        "text": "-“",
-        "value": -100
-    },
-    {
-        "text": " “",
-        "value": -100
-    },
-    {
-        "text": "“",
-        "value": -100
-    },
-    {
-        "text": "--",
-        "value": -100
-    },
-    {
-        "text": " --",
-        "value": -100
-    },
-    {
-        "text": "....",
-        "value": -100
-    },
-    {
-        "text": " ....",
-        "value": -100
-    },
-    {
-        "text": " whirlwind",
-        "value": -50
-    },
-    {
-        "text": " whirl",
-        "value": -50
-    },
-    {
-        "text": " swirling",
-        "value": -50
-    },
-    {
-        "text": " swirl",
-        "value": -50
-    },
-    {
-        "text": " sur",
-        "value": -25
-    },
-    {
-        "text": " surged",
-        "value": -25
-    },
-    {
-        "text": " surge",
-        "value": -25
-    },
-    {
-        "text": "olt",
-        "value": -100
-    },
-    {
-        "text": " jol",
-        "value": -100
-    },
-    {
-        "text": " electr",
-        "value": -75
-    },
-    {
-        "text": " electricity",
-        "value": -75
-    },
-    {
-        "text": " electric",
-        "value": -75
-    },
-    {
-        "text": " charge",
-        "value": -50
-    },
-    {
-        "text": " air",
-        "value": -25
-    },
-    {
-        "text": " stab",
-        "value": -25
-    },
-    {
-        "text": " pang",
-        "value": -25
-    },
-    {
-        "text": " hint",
-        "value": -25
-    },
-    {
-        "text": " mixture",
-        "value": -100
-    },
-    {
-        "text": " mixed",
-        "value": -100
-    },
-    {
-        "text": " mix",
-        "value": -100
-    },
-    {
-        "text": " combination",
-        "value": -25
-    },
-    {
-        "text": " both",
-        "value": -50
-    },
-    {
-        "text": " blend",
-        "value": -50
-    },
-    {
-        "text": " whispered",
-        "value": -100
-    },
-    {
-        "text": " said",
-        "value": -100
-    },
-    {
-        "text": " replied",
-        "value": -50
-    },
-    {
-        "text": " mut",
-        "value": -20
-    },
-    {
-        "text": " echoed",
-        "value": -10
-    },
-    {
-        "text": " echo",
-        "value": -10
-    },
-    {
-        "text": " continued",
-        "value": -100
-    },
-    {
-        "text": " began",
-        "value": -100
-    },
-    {
-        "text": " asked",
-        "value": -100
-    },
-    {
-        "text": " added",
-        "value": -50
-    },
-    {
-        "text": " yet",
-        "value": -10
-    },
-    {
-        "text": " but",
-        "value": -10
-    },
-    {
-        "text": " and",
-        "value": -15
-    },
-    {
-        "text": " words",
-        "value": -100
-    },
-    {
-        "text": " voice",
-        "value": -100
-    },
-    {
-        "text": " tone",
-        "value": -100
-    },
-    {
-        "text": "—",
-        "value": -20
-    },
-    {
-        "text": " —",
-        "value": -20
-    },
-    {
-        "text": "–",
-        "value": -5
-    },
-    {
-        "text": " –",
-        "value": 1
-    },
-    {
-        "text": "**",
-        "value": 0
-    },
-    {
+        "id": "8929d324-f484-44f2-bddd-c00933c1170c",
         "text": " **",
-        "value": 0
+        "value": -100
     },
     {
-        "text": " *",
-        "value": 0
+        "id": "5d05a2e0-ede1-4d19-add2-06278aa24f1f",
+        "text": "抱",
+        "value": -100
     },
     {
-        "text": "*",
-        "value": 0
+        "id": "611e44e1-9705-416e-a9cd-c7b83fb9f6f2",
+        "text": "申",
+        "value": -100
     },
     {
-        "text": " _",
-        "value": 0
+        "id": "f342e80d-2939-4c62-9a92-91c478c01902",
+        "text": " I'm",
+        "value": -100
     },
     {
-        "text": "_",
-        "value": 0
+        "id": "dc0b668d-1c21-47dc-bd88-bbe66a8a9906",
+        "text": "This",
+        "value": -100
     },
     {
+        "id": "3101e083-23e4-43f4-94e2-d7d714f1334f",
+        "text": "The",
+        "value": -100
+    },
+    {
+        "id": "96b2c771-06fd-41fe-8ffa-ccefedcd2b84",
+        "text": "#",
+        "value": -100
+    },
+    {
+        "id": "1f5146a6-5b6c-4d25-a7c1-c45734ca2a47",
+        "text": "system",
+        "value": -100
+    },
+    {
+        "id": "e43c22d5-f4db-42a4-84c6-2649bed19d9a",
+        "text": "申し",
+        "value": -100
+    },
+    {
+        "id": "61cf4c48-884a-4062-b640-729132deb5a8",
+        "text": "error",
+        "value": -100
+    },
+    {
+        "id": "a148332f-6bc7-4679-880e-893fe89d4ab1",
+        "text": "[",
+        "value": -100
+    },
+    {
+        "id": "9e56405c-e2f3-4c73-a23d-c78bebc9058c",
+        "text": " Sorry",
+        "value": -100
+    },
+    {
+        "id": "ddccab22-3c15-42b6-879e-1abc4e52c0b8",
         "text": ",",
         "value": -1
     },
     {
-        "text": " -",
-        "value": -2
+        "id": "b5fe87f7-8092-4c6d-866c-ffd64131a960",
+        "text": "[279]",
+        "value": 0.5
     },
     {
-        "text": " \"",
+        "id": "0f8b578c-27c5-41de-99da-6ba7f8fe5b5f",
+        "text": ",”,\"",
         "value": -100
     },
     {
-        "text": "?\"",
+        "id": "e44fa1a2-bcf1-4192-aaa7-d770b746e187",
+        "text": "\"?\"!\".\"",
+        "value": 0.5
+    },
+    {
+        "id": "4da1d07c-d1a8-4b56-921b-6720aefd1ffd",
+        "text": "[2678,37951,39067,6635]",
+        "value": 0.5
+    },
+    {
+        "id": "6609b6b1-774f-4044-8828-bfafee052abc",
+        "text": " mut murmumbled",
         "value": -100
     },
     {
-        "text": ",\"",
+        "id": "911bc230-4791-482e-8ecc-86e9b4094331",
+        "text": "uckles",
         "value": -100
     },
     {
-        "text": "\"",
-        "value": 0
+        "id": "00f76372-585b-44fb-93ab-97245bb520d5",
+        "text": " white kn",
+        "value": -25
     },
     {
-        "text": " \"",
-        "value": 0
+        "id": "e2f8aa97-6c13-47d0-9455-4b2c4ceb14b0",
+        "text": " voice words tone",
+        "value": -100
+    },
+    {
+        "id": "6bc22af7-b8a8-4cf9-b839-17eb274cefff",
+        "text": " mischchief",
+        "value": -100
+    },
+    {
+        "id": "aaa1aee7-1428-482f-b8ed-42cee6db9299",
+        "text": " mix mixture blend",
+        "value": -100
+    },
+    {
+        "id": "f99a7fe8-e0b4-4824-b7ac-73316a5f0c0c",
+        "text": " gaze eyes eye",
+        "value": -100
+    },
+    {
+        "id": "afbd45e6-d14b-419b-a67e-624d6c74b043",
+        "text": "iversiveriveredudder",
+        "value": -75
+    },
+    {
+        "id": "ca973d96-037d-47ea-a67d-18bd658b8533",
+        "text": " spine",
+        "value": -100
+    },
+    {
+        "id": "929823da-fc7a-4e61-b824-8d1c5be4f053",
+        "text": " lifeline",
+        "value": -100
+    },
+    {
+        "id": "f153b0c9-ce98-4c23-8abc-b0bf85811729",
+        "text": " Khal",
+        "value": -100
     }
 ]

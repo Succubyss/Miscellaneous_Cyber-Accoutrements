@@ -1,6 +1,6 @@
 # SmileyJB vSnar1.x
 
-_tl;dr: Kills the shit out of `," she said, her voice a mixture of emotion-A and emotion-B`_
+_tl;dr: Kills the shit out of `," said, her voice a mixture of emotion-A and emotion-B`_
 
 Went over SmileyJB with a fine-toothed comb, fixing errors and de-slopping the hell out of it. I did this on GitHub so you can view diffs of the changes via the commits pretty easily. Here's a summary:
 
@@ -24,6 +24,7 @@ Went over SmileyJB with a fine-toothed comb, fixing errors and de-slopping the h
 + Removed unnecessary newlines here and there that seemed to be there for no reason
 + Fixed comments that weren't correctly commented out, and also added `{{trim}}` after them to prevent an extra newline
 + Fixed various misspellings
++ Renames Clau to Khal to help prevent refusals on GPT
 + Other shit I don't remember
 
 There's also a gpt-4o logit bias I recommend importing and using, which helps kill a ton of AO3-isms.
@@ -44,7 +45,7 @@ Does the AI always get the formatting correct? ***No.*** Is the prose improved o
 
 ## Advanced
 
-In the Advanced version, `{{char}}` & `{{user}}` are replaced with `{{getvar::_SMILEY-tgtChar}}` & `{{getvar::_SMILEY-notThem}}`
+In the Advanced version, `{{char}}` & `{{user}}` are replaced with `{{getvar::@tgtChar}}` & `{{getvar::@notThem}}`
 
 Should you switch which one is which, it'd be as if the persona was the card and the card was the persona.
 
